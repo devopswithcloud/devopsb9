@@ -52,3 +52,21 @@
 * PAT 
 * Keys in both linux and windows
 * Multi Account keys configuration using config file 
+
+## Day10 : 19/02/2026
+* git branches 
+* tags
+* Pull request
+
+## Day11 : 20/02/2026
+* Merge conflicts 
+* Org account 
+* Colloborator  for a repo
+* Reviewers and merge through a pr
+* default branch 
+* repo, setting
+
+
+
+## Good to know
+* undo operations 
