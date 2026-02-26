@@ -66,8 +66,13 @@
 * default branch 
 * repo, setting
 
-## Day11 : 25/02/2026
+## Day12 : 25/02/2026
 * what are build tools 
 * Various build tools 
 * maven intro
 * installing java maven on windows and linux machines
+
+## Day13 : 26/02/2026
+* Mvn build phases 
+* type of repos
+* Artifacts creation
