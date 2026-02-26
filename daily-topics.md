@@ -66,7 +66,8 @@
 * default branch 
 * repo, setting
 
-
-
-## Good to know
-* undo operations 
+## Day11 : 25/02/2026
+* what are build tools 
+* Various build tools 
+* maven intro
+* installing java maven on windows and linux machines
