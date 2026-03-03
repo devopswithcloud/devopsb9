@@ -76,3 +76,24 @@
 * Mvn build phases 
 * type of repos
 * Artifacts creation
+
+## Day13 : 27/02/2026
+* Code analysis
+* Code quality
+* Sonarqube 
+* Installing and accesing sonarqube 
+* Configuring/opening port 9000 on gcp and aws cloud
+## Day14 : 01/03/2026
+* 
+## Day15 : 02/03/2026
+* Quality Profile 
+* Quality Gates
+* SonarQube rules and their importance in code analysis
+* Implemented sonarqube on java based maven project and analyzed code quality in SonarQube dashboard using mvn sonar:sonar command.
+## Day16 : 03/03/2026
+* Sonarqube analysis using Python and maven projects
+* SonarQube Scanner installation and configuration
+* Sonarqube prperties file configuration
+* Executing sonar scans using sonar-scanner cli and analyzing results in SonarQube dashboard
+* Task: 
+    * Implement the same format for java based maven project and analyze the code quality in SonarQube dashboard using sonar-scanner cli
