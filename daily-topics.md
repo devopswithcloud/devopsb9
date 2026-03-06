@@ -97,10 +97,20 @@
 * Executing sonar scans using sonar-scanner cli and analyzing results in SonarQube dashboard
 * Task: 
     * Implement the same format for java based maven project and analyze the code quality in SonarQube dashboard using sonar-scanner cli
-## Day16 : 04/03/2026
+## Day17 : 04/03/2026
 * Understood what ci/cd is and its importance in software development
 * Installed Jenkins on ubuntu 
 * Configured jenkins 
 * Created a simple job in jenkins > ran the job > checked the console output for build status
+## Day18 : 05/03/2026
+* Explored manage jenkins options 
+* Created multiple jobs with build steps 
+* Observerd diff b/w git clone and scm 
+* Created a job for java using scm
+## Day19 : 06/03/2026
+* Implemented a free style jenkins job for a java based maven project using git scm
+* Configured differnet versions of s/w packages in jenkins using global tool configuration
+* Created a credential in jenkins for github access and used it in git scm configuration for the job
+* Archived the build artifacts in jenkins and observed the archived artifacts in the build history
 ## Good to know
 * undo operations 
