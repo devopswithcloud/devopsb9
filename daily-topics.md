@@ -112,5 +112,13 @@
 * Configured differnet versions of s/w packages in jenkins using global tool configuration
 * Created a credential in jenkins for github access and used it in git scm configuration for the job
 * Archived the build artifacts in jenkins and observed the archived artifacts in the build history
+## Day20 : 10/03/2026
+* Configure jenkins-master slave setup 
+* Task:
+    * Create a jenkin-master-slave setup and have a label called `app-slave`
+    * On slave vm configure, java, mvn, node , docker as well .
+    * Create a job called `java-app-1` configure to have `mvn package` and make sure it will run on the slave whos label is `app-slave`
+    * Create a job called `docker-hello-world` and configure to have this command run `docker run hello-world` on the slave whos label is `app-slave`
+
 ## Good to know
 * undo operations 
