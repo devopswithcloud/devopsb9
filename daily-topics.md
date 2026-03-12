@@ -119,6 +119,15 @@
     * On slave vm configure, java, mvn, node , docker as well .
     * Create a job called `java-app-1` configure to have `mvn package` and make sure it will run on the slave whos label is `app-slave`
     * Create a job called `docker-hello-world` and configure to have this command run `docker run hello-world` on the slave whos label is `app-slave`
+## Day21 : 11/03/2026
+* Created Pipeline as code using jenkinsfile
+* Implemented github integration with jenkins and created a pipeline job in jenkins using git scm
+* Looked to into pipelines syntax , mainly pipeline, agent, stages, steps
+## Day22 : 12/03/2026
+* Decelerative , scripted block in jenkinsfile
+* Tools section configrration in jenkins pipleine , globally and at the stage level
+* added retry block 
+* Implemented Multi branch pipeline in jenkins using git scm and observed the automatic creation of jobs for each branch in the repository
 
 ## Good to know
 * undo operations 
